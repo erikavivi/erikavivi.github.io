@@ -4,6 +4,8 @@ title:  "Minhas Costumizações"
 author: erika
 categories: [ costumização, costura ]
 image: assets/images/image-costumizacoes.jpg
+featured: true
+hidden: true
 ---
 
 Não lembro quando. Mas acho que a partir do momento que mainha me deixou pegar numa tesoura que não fosse de papel, eu comecei a cortar minhas roupas hahaha.
